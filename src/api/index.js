@@ -4,9 +4,9 @@ import todoRouter from './routes/todosRouter.js';
 const api = express();
 
 api.get('/', (req, res) => {
-	res.send({
-		message: 'Hello from the API',
-	});
+  res.send({
+    message: 'Hello from the API',
+  });
 });
 
 api.use('/todos', todoRouter);

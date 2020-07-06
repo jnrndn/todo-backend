@@ -2,7 +2,7 @@
 	"name": "todo-back-end",
 	"version": "0.0.0",
 	"description": "express api",
-	"main": "src/index.mjs",
+	"main": "src/index.js",
 	"scripts": {
 		"test": "test"
 	},

@@ -1,0 +1,15 @@
+{
+	"name": "todo-back-end",
+	"version": "0.0.0",
+	"description": "express api",
+	"main": "src/index.mjs",
+	"scripts": {
+		"test": "test"
+	},
+	"type": "module",
+	"author": "juan rendon - @jnrendon",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
